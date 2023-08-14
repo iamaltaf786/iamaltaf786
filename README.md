@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamaltaf786" alt="Altaf-Hussain" /> </p>
+
 <p align="center">
   <img alt="Altaf Hussain" src="https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif">
 </p><br>

@@ -10,7 +10,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p>
-  - 🌱 I’m currently learning **DSA**
+  - 🌱 I’m currently learning **React.js**
 </p>
 
 - 📄 My CV(Resume) [Click Me](https://drive.google.com/file/d/1yTFgjSgp-fAGI71W109SSBU0ozWaBV5Y/view?usp=sharing)

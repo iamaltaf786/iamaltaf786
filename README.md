@@ -13,7 +13,7 @@
   - 🌱 I’m currently learning **DSA**
 </p>
 
-- 📄 My CV(Resume) [Click Me](https://drive.google.com/file/d/1_ZByau9vayeW-uiyb2JK0Ev_0X-z6Am6/view?usp=sharing)
+- 📄 My CV(Resume) [Click Me]([https://drive.google.com/file/d/1_ZByau9vayeW-uiyb2JK0Ev_0X-z6Am6/view?usp=sharing](https://drive.google.com/file/d/1P7bEW-CVNPPnSno_27YLZ7RcWvomxzKk/view?usp=drive_link))
 
   <br/>
   <br/>

@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamaltaf786" alt="Altaf-Hussain" /> </p>
 
-<p align="center">
-  <img alt="Altaf Hussain" src="https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif">
+<p align="right">
+  <img alt="Altaf Hussain" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif">
 </p><br>
 <p>- ⚡ Fun fact : **Knowledge is infinity...no matter how much a person gain... it is never enough.**</p>
 

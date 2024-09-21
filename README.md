@@ -64,7 +64,7 @@
   
 </p>
 
-- 📫 How to reach me **hussainaltaf028@gmail.com**
+- 📫 Mail Id **hussainaltaf028@gmail.com**
 
 <!--
 

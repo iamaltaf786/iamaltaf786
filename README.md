@@ -13,7 +13,7 @@
   - 🌱 I’m currently learning **React.js**
 </p>
 
-- 📄 My CV(Resume) [Click Me](https://drive.google.com/file/d/1QSUH5x5e4ms7jUAScYBCQM_pEN3aMjTX/view?usp=sharing)
+- 📄 My CV(Resume) [Click Me](https://drive.google.com/file/d/1LafUmbCr6Jl7FyoY324CoF2eIspD3Vev/view?usp=sharing)
 
   <br/>
   <br/>

@@ -10,17 +10,18 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p>
-  - 🌱 I’m currently learning **React.js**
+  - 🌱 I’m currently learning **MERN**
 </p>
-
-- 📄 My CV(Resume) [Click Me](https://drive.google.com/file/d/1LafUmbCr6Jl7FyoY324CoF2eIspD3Vev/view?usp=sharing)
+<!--Comment-->
+<!-- - 📄 My CV(Resume) [Click Me](https://drive.google.com/file/d/1LafUmbCr6Jl7FyoY324CoF2eIspD3Vev/view?usp=sharing)
+ -->
 
   <br/>
   <br/>
 <h3 align="right">Connect with me:</h3>
 <p align="right">
 <a href="https://linkedin.com/in/altaf-hussain-10640a203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="altaf-hussain-10640a203" height="30" width="40" /></a>
-<a href="https://instagram.com/yup_iam_altaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yup_iam_altaf" height="30" width="40" /></a>
+<!--<a href="https://instagram.com/yup_iam_altaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yup_iam_altaf" height="30" width="40" /></a>-->
 <a href="https://www.codechef.com/users/altaf0602" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="altaf0602" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hussainaltaf028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hussainaltaf028" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/hussainaltaf028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hussainaltaf028" height="30" width="40" /></a>
